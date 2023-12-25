@@ -21,19 +21,19 @@
 <table>
 <tr>
 <td align="center" width="90" height="65" style="border:none">
-	<a href="https://linkedin.com/in/https://www.linkedin.com/in/het-patel-532877257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/het-patel-532877257/" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/het-patel-532877257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/het-patel-532877257/" height="30" width="40" /></a>
 </td>
 	
 <td align="center" width="90" style="border:2px solid blue">
-	<a href="https://codeforces.com/profile/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hetpatel3245" height="30" width="40" /></a>
+	<a href="https://codeforces.com/profile/hetpatel3245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hetpatel3245" height="30" width="40" /></a>
 </td>
  
 <td align="center" width="90" style="border:2px solid blue">
-	<a href="https://www.codechef.com/users/hetpatel3245" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetpatel3245" height="30" width="40" /></a> 
+	<a href="https://www.codechef.com/users/hetpatel3245" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetpatel3245" height="30" width="40" /></a> 
 </td>
 
 <td align="center" width="90" style="border:2px solid blue">
-	<a href="https://auth.geeksforgeeks.org/user/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hetpatel3245" height="30" width="40" /></a> 
+	<a href="https://auth.geeksforgeeks.org/user/hetpatel3245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hetpatel3245" height="30" width="40" /></a> 
 </td>
 
 </tr>
