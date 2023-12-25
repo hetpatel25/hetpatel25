@@ -10,8 +10,6 @@
 
 -  I'm currently a pre-final year student
 
--  I’m currently learning CP, DSA, Web development
-
 -  I’m looking to collaborate on web development projects
 
 -  How to reach me? **hetpatel3245@gmail.com**
@@ -20,14 +18,29 @@
 <br/>
 
 ## 📫 My Handles
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/het-patel-532877257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/het-patel-532877257/" height="30" width="40" /></a>
+<table>
+<tr>
+<td align="center" width="90" height="65" style="border:none">
+	<a href="https://linkedin.com/in/https://www.linkedin.com/in/het-patel-532877257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/het-patel-532877257/" height="30" width="40" /></a>
+</td>
+	
+<td align="center" width="90" style="border:2px solid blue">
+	<a href="https://codeforces.com/profile/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hetpatel3245" height="30" width="40" /></a>
+</td>
+ 
+<td align="center" width="90" style="border:2px solid blue">
+	<a href="https://www.codechef.com/users/hetpatel3245" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetpatel3245" height="30" width="40" /></a> 
+</td>
+
+<td align="center" width="90" style="border:2px solid blue">
+	<a href="https://auth.geeksforgeeks.org/user/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hetpatel3245" height="30" width="40" /></a> 
+</td>
+
+</tr>
+</table>
+
 <!-- <a href="https://instagram.com/hetpatel9.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hetpatel9.9" height="30" width="40" /></a>-->
-<a href="https://codeforces.com/profile/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hetpatel3245" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hetpatel3245" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetpatel3245" height="30" width="40" /></a> 
 <!-- <a href="https://www.leetcode.com/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hetpatel3245" height="30" width="40" /></a>-->
-<a href="https://auth.geeksforgeeks.org/user/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hetpatel3245" height="30" width="40" /></a> 
-</p>
 
 <br/>
 
@@ -38,7 +51,7 @@
 
 <br/>
 
-## 💼 Technical Skills
+## 💼 Technical Stack
 
 <!--
 <div align="left">
@@ -57,7 +70,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </div>
 -->
-
+<!--
 <div align="left">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
@@ -67,4 +80,53 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-</div>
+</div>-->
+
+
+<table>
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=c" width="60" height="60" padding="5" alt="JavaScript" />
+        <br>C</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="C++" />
+        <br>C++</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" />
+        <br>JavaScript</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
+        <br>React</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="Node.js" />
+        <br>Node.js</br>
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" padding="5" alt="TailwindCSS" />
+        <br>Tailwind css</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" padding="5" alt="Bootstrap"  />
+        <br>Bootstrap</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" padding="5" alt="Figma" />
+        <br>Figma</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" />
+      <br>MongoDB</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" padding="5" alt="PostgreSQL" />
+        <br>PostgreSQL</br>
+</td>
+</table>
