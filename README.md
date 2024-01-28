@@ -16,7 +16,6 @@
 
 -  My Portfolio: <a target="_blank" href = "https://het-patel.vercel.app/">https://het-patel.vercel.app/</a>
 
--  **<a target="_blank" href = "https://drive.google.com/file/d/1dJZzSZSuWQJJ-G0EyGkrAagYANEfgxLl/view?usp=sharing">My Resume</a>**
 <br/>
 
 ## 📫 My Handles
