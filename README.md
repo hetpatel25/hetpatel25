@@ -14,6 +14,8 @@
 
 -  How to reach me? **hetpatel3245@gmail.com**
 
+-  My Portfolio: <a target="_blank" href = "https://het-patel.vercel.app/">https://het-patel.vercel.app/</a>
+
 -  **<a target="_blank" href = "https://drive.google.com/file/d/1dJZzSZSuWQJJ-G0EyGkrAagYANEfgxLl/view?usp=sharing">My Resume</a>**
 <br/>
 
