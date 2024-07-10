@@ -1,54 +1,20 @@
 <h1 align="left">Hi there👋</h1>
 <p align="left">I'm Het Patel, currently pursuing a B.Tech at DAIICT, Gandhinagar, specializing in Information and Communication Technology (ICT).</p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=1000&random=false&width=435&lines=Competitive+Programming;Frontend+Developer;Graphic+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=1000&random=false&width=435&lines=Data+Structures+and+Algorithms;Competitive+Programming;Frontend+Developer;Graphic+Designer" alt="Typing SVG" /></a>
 
 
-<div align="center">
+<!--<div align="center">
 <p> <img src="https://komarev.com/ghpvc/?username=hetpatel25&label=Profile%20views&color=0e75b6&style=flat" alt="hetpatel25" /> </p>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetpatel25" alt="hetpatel25" /></a> </p>
-</div>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetpatel25" alt="hetpatel25" /></a> </p> 
+</div>-->
 
--  I'm currently a pre-final year student
+-  I'm currently a final-year student
 
 -  I’m looking to collaborate on web development projects
 
 -  How to reach me? **hetpatel3245@gmail.com**
 
 -  My Portfolio: <a target="_blank" href = "https://het-patel.vercel.app/">https://het-patel.vercel.app/</a>
-
-<br/>
-
-## 📫 My Handles
-<table>
-<tr>
-<td align="center" width="90" height="65" style="border:none">
-	<a href="https://www.linkedin.com/in/het-patel-532877257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/het-patel-532877257/" height="30" width="40" /></a>
-</td>
-	
-<td align="center" width="90" style="border:2px solid blue">
-	<a href="https://codeforces.com/profile/hetpatel3245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hetpatel3245" height="30" width="40" /></a>
-</td>
- 
-<td align="center" width="90" style="border:2px solid blue">
-	<a href="https://www.codechef.com/users/hetpatel3245" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetpatel3245" height="30" width="40" /></a> 
-</td>
-
-<td align="center" width="90" style="border:2px solid blue">
-	<a href="https://auth.geeksforgeeks.org/user/hetpatel3245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hetpatel3245" height="30" width="40" /></a> 
-</td>
-
-</tr>
-</table>
-
-<!-- <a href="https://instagram.com/hetpatel9.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hetpatel9.9" height="30" width="40" /></a>-->
-<!-- <a href="https://www.leetcode.com/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hetpatel3245" height="30" width="40" /></a>-->
-
-<br/>
-
-## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetpatel25&show_icons=true&locale=en" alt="hetpatel25" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetpatel25&show_icons=true&locale=en&layout=donut" alt="hetpatel25" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel25&" alt="hetpatel25" /></p>
 
 <br/>
 
@@ -131,3 +97,46 @@
         <br>PostgreSQL</br>
 </td>
 </table>
+
+
+
+## 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hetpatel25&show_icons=true&locale=en" alt="hetpatel25" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetpatel25&show_icons=true&locale=en&layout=donut" alt="hetpatel25" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel25&" alt="hetpatel25" /></p>
+
+<br/>
+
+## 📫 My Handles
+<table>
+<tr>
+<td align="center" width="90" height="65" style="border:none">
+	<a href="https://www.linkedin.com/in/het-patel-532877257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/het-patel-532877257/" height="30" width="40" /></a>
+</td>
+
+<td align="center" width="90" style="border: 2px solid blue;">
+    <a href="https://www.leetcode.com/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hetpatel3245" height="30" width="40" /></a>
+</td>
+	
+<td align="center" width="90" style="border:2px solid blue">
+	<a href="https://codeforces.com/profile/hetpatel3245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hetpatel3245" height="30" width="40" /></a>
+</td>
+ 
+<!--<td align="center" width="90" style="border:2px solid blue">
+	<a href="https://www.codechef.com/users/hetpatel3245" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="hetpatel3245" height="30" width="40" /></a> 
+</td>-->
+
+
+
+<td align="center" width="90" style="border:2px solid blue">
+	<a href="https://auth.geeksforgeeks.org/user/hetpatel3245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hetpatel3245" height="30" width="40" /></a> 
+</td>
+
+</tr>
+</table>
+
+<!-- <a href="https://instagram.com/hetpatel9.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hetpatel9.9" height="30" width="40" /></a>-->
+<!-- <a href="https://www.leetcode.com/hetpatel3245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hetpatel3245" height="30" width="40" /></a>-->
+
+<br/>
+
